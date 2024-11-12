@@ -1,6 +1,6 @@
 ---
 
-## 📝 Project Instructions: To-Do List App with Authentication & Task Management
+### 📝 Project Instructions: To-Do List App with Authentication & Task Management
 
 **Main Goal:** Create a fully functional To-Do List App where users can register/login to keep track of their tasks. This means you’ll be building a mini app with user management and task management features!
 
