@@ -1,6 +1,8 @@
+Here's a fun and practical challenge for building an interactive **To-Do List App** this week! This project will boost your JavaScript skills and make use of your creative, unique designs. Let’s turn this simple concept into a personal productivity app with a few extra features to make it challenging and real-world relevant!
+
 ---
 
-### 📝 Project Instructions: To-Do List App with Authentication & Task Management
+## 📝 Project Instructions: To-Do List App with Authentication & Task Management
 
 **Main Goal:** Create a fully functional To-Do List App where users can register/login to keep track of their tasks. This means you’ll be building a mini app with user management and task management features!
 
